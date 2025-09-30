@@ -1,0 +1,31 @@
+﻿# Node
+node_modules/
+
+# Build outputs
+backend/dist/
+backend/artifacts/
+backend/cache/
+frontend/dist/
+**/*.tsbuildinfo
+
+# Environment
+.env
+.env.*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Coverage
+coverage/
+
+# Temp
+*.tmp
+*.temp
+
+# Media
+video.mp4
